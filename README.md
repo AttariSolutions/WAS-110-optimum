@@ -73,7 +73,7 @@ Fill in:
 | Override committed firmware bank | `A` |
 | PON Mode | `XGS-PON` |
 | Registration ID (HEX) | `20202020202020202020` (ten spaces in hex — matches stock ONT) |
-| MIB File | `/etc/mibs/prx300_1V.ini` ⚠️ **NOT the 1U default!** |
+| MIB File | `/etc/mibs/prx300_1V_bell.ini` ⚠️ **NOT the 1U default!** |
 | IP Host MAC Address | your `68:AA:C4:__:__:__` from the label |
 
 Everything else on this tab: leave default/empty.
